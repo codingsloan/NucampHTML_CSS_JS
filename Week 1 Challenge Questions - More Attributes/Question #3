@@ -1,0 +1,3 @@
+<!-- One of the possible values for the name attribute of the meta element is description.  How is a meta element with this attribute value used?
+
+The name attribute for a meta element specifies the type of information it contains.  With the value of discription for name, it would be used to specify a description with keywords that relate to the content of the page, which benefits relevant search performance, helping to improve search engine optimization (SEO). -->

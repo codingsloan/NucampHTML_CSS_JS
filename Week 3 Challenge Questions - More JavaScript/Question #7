@@ -1,0 +1,12 @@
+<!--Research at least one array method that has not been discussed yet and present it in your answer. Explain what it does and provide sample code to demonstrate how to use it.
+
+The toString() method is an example of an array method that we have not discussed yet that is used to convert an array to a string.  It has a similar, but simpler method for doing so as compared to the join() method, since it deosn't take a parameter and is more limiting than the join() method because one is not able to specify different separators with the toString() method as with the join() method. With the toString() method, commas are always used to separate the items in an array.
+
+For example:
+
+let flowerNames = ['Tulip', 'Daisy', 'Rose', 'Violet'];
+flowerNames.toString()   
+
+returns:
+Tulip,Daisy,Rose,Violet
+-->

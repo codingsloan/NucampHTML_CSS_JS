@@ -1,0 +1,3 @@
+<!--What happens if you try to use the node.insertBefore() method to insert a node that already exists in the document, i.e. is already attached to the DOM? 
+
+If you use node.insertBefore() to insert a node that already exists in a document, this method will move the existing node from its current positon to the new position; it automatically removes the node from its existing parent and appends it to the new parent specified.  Thus, a node cannot be in two locations of a document simultaneously.  -->

@@ -1,0 +1,77 @@
+body {
+  background: pink;
+  font-family: Verdana, Arial, sans-serif;
+  margin-right: 50px;
+  margin-left: 25px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+h1 {
+  text-align: center;
+  color: deeppink;
+  font: 80px BrushScriptMT, Helvetica, serif;
+}
+
+table {
+  width: 100%;
+  height: 500px;
+  align: center;
+  margin: 10px;
+  padding: 30px;
+  color: blue;
+  border: inset deeppink 10px;
+}
+
+#menu {
+  text-align: center;
+  color: deeppink;
+}
+
+label {
+  display: block;
+  color: blue;
+}
+
+form {
+  color: blue;
+  text-align: left;
+  height: 100px;
+  padding: 10px;
+}
+
+#submit-btn {
+  display: block;
+  padding: 10px;
+  color: blue;
+  background: deeppink;
+}
+
+#rating {
+  color: deeppink;
+}
+
+#submitreview {
+  text-align: left;
+  font: bold 15px;
+  color: deeppink;
+}
+
+#contact {
+  text-align: right;
+  font: bold 15px;
+  color: deeppink;
+}
+
+#telephone {
+  color: blue;
+  font: 10px;
+  text-align: right;
+}
+
+#address {
+  color: blue;
+  font: 10px;
+  text-align: right;
+  display: block;
+}

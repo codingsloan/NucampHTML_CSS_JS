@@ -1,0 +1,19 @@
+<!--What is the return value from a call to node.removeChild()? What can you do with it? Show sample code to demonstrate how you might store the return value in a variable then use it. -->
+
+
+node.removeChild() is a method for removing all of the child nodes of the removed node.
+
+You must have a reference to a parent node with removeChild()
+
+Ex.   function removeListFirstChild() {
+    listNode.removeChild(listNode.firstChild);
+}
+  This first function, directly above, calls for removing only the first child from the listNode.
+
+        function removalAllListChildren() {
+            while (listNode.firstChild) {
+                listNode.removeChild(listNode.firstChild);
+            }
+        }
+
+This second function, directly above, calls for the removal of all children in the listNode.  -->

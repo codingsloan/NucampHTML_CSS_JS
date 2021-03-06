@@ -1,0 +1,12 @@
+<!--You've seen how the array method sort() can be used to sort an array of strings alphabetically. What is its behavior when used to sort an array of numbers? For example, what would this array look like once sorted?: [1, 13, 1000, 29, 255] 
+
+
+const numbers = ['1', '13', '1000', '29', '255'];
+numbers.sort();
+console.log(numbers);
+
+Expected output: ['1', '1000', '13', '255', '29']
+
+Note: Numbers are converted to strings when sorted.
+
+-->

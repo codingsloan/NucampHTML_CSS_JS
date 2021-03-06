@@ -1,0 +1,14 @@
+<!--Aside from Math.floor and Math.random, name at least one more function/method of the Math global object, along with an example code on how to use it.
+
+Math.ceil is a function that will always round up to the nearest integer.  In the case of Math.ceil(null), the value returned is 0 rather than a NaN error.  Some examples of applying this function/method are as follows:
+
+Math.ceil(3.09251) would return 4
+
+Math.ceil(2) would return 2
+
+Math.ceil(7.865) would return 8
+
+Math.ceil(-2.516) would return -2
+
+
+  -->

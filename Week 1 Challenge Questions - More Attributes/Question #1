@@ -1,0 +1,4 @@
+<!--What attribute and value can you use to cause an <a> element to open the link in a new browser tab? 
+
+Atribute is target and value is _blank.
+For example: <a target="_blank">  -->
